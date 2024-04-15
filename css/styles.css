@@ -11281,8 +11281,8 @@ header.masthead {
   padding-bottom: calc(10rem - 4.5rem);
   background: linear-gradient(
       to bottom,
-      rgba(207, 226, 243, 0.8) 0%,
-      rgba(207, 226, 243, 0.8) 100%
+      rgba(173, 216, 230, 0.8) 0%,
+      rgba(173, 216, 230, 0.8) 100%
     ),
     url("../assets/img/bg.jpg");
   background-position: center;
